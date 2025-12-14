@@ -33,8 +33,3 @@ The **Car Rental System** is a Java-based console application that simulates rea
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/prabhatthakuryt/Car-Rental-System.git
